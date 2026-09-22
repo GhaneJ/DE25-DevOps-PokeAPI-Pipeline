@@ -1,6 +1,6 @@
 ![CI](https://github.com/IsabellaCarrereK/CI-CD-Grupparbete-/actions/workflows/ci.yml/badge.svg)
 🔗 [Live demo](https://isabellacarrerek.github.io/CI-CD-Grupparbete-/)
-# DE25 DevOps PokéAPI Pipeline CI-CD-Grupparbete
+# DE25 DevOps PokéAPI Pipeline
 
 Group project for the DE25 DevOps CI/CD course.
 
